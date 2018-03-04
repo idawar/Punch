@@ -1,0 +1,1 @@
+json.partial! 'client', locals: { user: @user }
